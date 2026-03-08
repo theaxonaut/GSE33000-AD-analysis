@@ -1,5 +1,8 @@
 ![GSE33000 Analysis](figures/volcano_plot.png)
 # GSE33000 — Differential Expression Analysis in Alzheimer's Disease
+![R](https://img.shields.io/badge/Language-R-276DC3?style=flat&logo=r)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ## Background
 
