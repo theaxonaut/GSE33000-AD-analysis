@@ -4,11 +4,19 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
+> **511 DEGs identified** (262 upregulated, 249 downregulated) across 467 post-mortem brain samples.
+
 ## Background
 
 Alzheimer's disease (AD) is a progressive neurodegenerative disorder and the leading cause of dementia worldwide. Its molecular basis remains incompletely understood, with competing hypotheses centred on amyloid-beta accumulation and tau tangle formation. Transcriptomic profiling of post-mortem brain tissue offers a hypothesis-free approach to identifying gene expression changes associated with disease.
 
 This analysis uses the GSE33000 dataset (NCBI GEO), a large microarray study of human prefrontal cortex tissue comprising 310 AD and 157 non-demented control samples.
+
+---
+
+## Why This Project
+
+This project was self-initiated, motivated by a personal interest in the molecular underpinnings of Alzheimer's disease.
 
 ---
 
@@ -90,3 +98,10 @@ GSE33000-AD-analysis/
 
 ## Environment
 R / Google Colab
+
+---
+
+## Author
+
+**Md Rashid Alam** | BSc Biotechnology (3rd Year), Jamia Hamdard University, New Delhi  
+github.com/theaxonaut
